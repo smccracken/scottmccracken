@@ -17,14 +17,14 @@
   "dependencies": {
     "@astrojs/check": "^0.9.10",
     "@astrojs/ts-plugin": "^1.10.10",
-    "astro": "^7.1.6",
+    "astro": "^7.2.1",
     "typescript": "^6.0.3"
   },
   "packageManager": "pnpm@11.15.1",
   "devDependencies": {
-    "@biomejs/biome": "2.5.6",
-    "cssnano": "^8.0.2",
-    "html-validate": "^11.6.0",
+    "@biomejs/biome": "2.5.8",
+    "cssnano": "^8.0.6",
+    "html-validate": "^11.6.2",
     "husky": "^9.1.7",
     "stylelint": "^17.14.1",
     "stylelint-config-html": "^2.0.0",
