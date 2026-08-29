@@ -16,15 +16,15 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",
-    "@astrojs/ts-plugin": "^1.10.10",
-    "astro": "^7.2.1",
+    "@astrojs/ts-plugin": "^1.10.11",
+    "astro": "^7.2.4",
     "typescript": "^6.0.3"
   },
   "packageManager": "pnpm@11.15.1",
   "devDependencies": {
-    "@biomejs/biome": "2.5.8",
-    "cssnano": "^8.0.6",
-    "html-validate": "^11.6.2",
+    "@biomejs/biome": "2.5.10",
+    "cssnano": "^8.0.8",
+    "html-validate": "^11.8.0",
     "husky": "^9.1.7",
     "stylelint": "^17.14.1",
     "stylelint-config-html": "^2.0.0",
