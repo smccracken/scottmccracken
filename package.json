@@ -17,16 +17,16 @@
   "dependencies": {
     "@astrojs/check": "^0.9.10",
     "@astrojs/ts-plugin": "^1.10.11",
-    "astro": "^7.2.4",
+    "astro": "^7.3.2",
     "typescript": "^6.0.3"
   },
   "packageManager": "pnpm@11.15.1",
   "devDependencies": {
-    "@biomejs/biome": "2.5.10",
+    "@biomejs/biome": "2.5.13",
     "cssnano": "^8.0.8",
-    "html-validate": "^11.8.0",
+    "html-validate": "^11.15.0",
     "husky": "^9.1.7",
-    "stylelint": "^17.14.1",
+    "stylelint": "^17.15.0",
     "stylelint-config-html": "^2.0.0",
     "stylelint-config-standard": "^40.0.0"
   }
